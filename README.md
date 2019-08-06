@@ -50,5 +50,5 @@ Start with some base HTML":
 * In JavaScript, change the body tag's style so it has a font-family of "Arial, sans-serif".
 * In JavaScript, replace each of the spans (nickname, favorites, hometown) with your own information.
 * Iterate through each li and change the class to "list-item".
-* Add a style tag that sets a rule for .list-item to make the color red.
+* Add a style attribute that sets a rule for .list-item to make the color red.
 * Create a new img element and set its src attribute to a picture of you. Append that element to the page.
